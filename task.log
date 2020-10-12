@@ -1,0 +1,15 @@
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] TRUE
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] TRUE
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] TRUE
